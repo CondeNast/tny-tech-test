@@ -6,7 +6,7 @@ Before we begin, here are a few key points to keep in mind as you tackle this as
 ## Key Points
 1. :heavy_exclamation_mark: This assignment is one (1) of many criteria that will be evaluated about a candidate. So, please remember to **read the instructions carefully**, **be thoughtful**, and **don't be afraid to show your creativity**
 2. Candidates should take **no more than eight (8) hours** to complete this assignment. **This work time can be spread across a seventy-two (72) hour turnaround period**
-3. **DO NOT** open a PR against this main repo. Candidates are expected to:
+3.  Candidates are expected to:
     * **Fork this main repo.** The resulting repo must be set to **public**
     * **Open a PR** against their forked repo that clearly shows the changes they have made (do not merge to master). _(Don't be afraid to show the multiple commits you've made to your branch)_
     * **Submit a link to the PR** they have opened for review
@@ -56,6 +56,8 @@ A candidate's application must follow the **general format** of these wireframed
 * Must apply a **design system** to the application's UI. Candidates can use one (1) of the following design systems or any other design system they may be familiar with:
   * [Material UI](https://mineral-ui.netlify.app/)
   * [Elastic UI](https://elastic.github.io/eui/#/)
+
+  > **Please note that Bootstrap is NOT a design system**
 
 ### Back-end requirements
 * Must make a successful HTTP request to the REST API when ran locally
