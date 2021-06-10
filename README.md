@@ -32,7 +32,7 @@ All candidates are asked to build a React app that:
 1. Renders a front-end client
 2. Has a back-end interface that interacts with the designated REST API -- NewsAPI (https://newsapi.org/)
 
-Your application's front-end client must be built on the foundation of the boilerplate app presented in this repo. Feel free to **add**, **remove**, and **modify** any files as needed. **Please refrain from implementing `create-react-app` in your project as it will NOT be viewed as an acceptable change.**
+Your application's front-end client must be built on the foundation of the boilerplate app presented in this repo. Feel free to **add**, **remove**, and **modify** any files as needed. **Please refrain from implementing `create-react-app` or `create-next-app` in your project as it will NOT be viewed as an acceptable change.**
 
 You must be sure to acquire a public API Key for your application's back-end interface so that your branch can be run locally.
 
