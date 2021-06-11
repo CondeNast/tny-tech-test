@@ -7,9 +7,11 @@ Before we begin, here are a few key points to keep in mind as you tackle this as
 1. :heavy_exclamation_mark: This assignment is one (1) of many criteria that will be evaluated about a candidate. So, please remember to **read the instructions carefully**, **be thoughtful**, and **don't be afraid to show your creativity**
 2. Candidates should take **no more than eight (8) hours** to complete this assignment. **This work time can be spread across a seventy-two (72) hour turnaround period**
 3.  Candidates are expected to:
-    * **Fork this main repo.** The resulting repo must be set to **public**
-    * **Open a PR** against their forked repo that clearly shows the changes they have made (do not merge to master). _(Don't be afraid to show the multiple commits you've made to your branch)_
-    * **Submit a link to the PR** they have opened for review
+    * Clone this main repo
+    * Make changes in the cloned repo
+    * Incremental commits are encouraged to visualise how the application evolved over the time during the development
+    * Once completed, push the changes in your github repository
+    * Share the repository link. The resulting repo must be set to **public**
 4. This assignment is **tiered** with a few **optional tasks**. Candidates are required to:
     * Complete the basic application requirements
     * Complete the requirements mapped to the engineering level they are interviewing for
